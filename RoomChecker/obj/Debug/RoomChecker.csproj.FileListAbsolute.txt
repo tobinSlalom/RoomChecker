@@ -1,0 +1,40 @@
+c:/users/tobin/documents/visual studio 2015/Projects/RoomChecker/RoomChecker/bin/Debug/RoomChecker.exe.config
+c:/users/tobin/documents/visual studio 2015/Projects/RoomChecker/RoomChecker/bin/Debug/RoomChecker.exe
+c:/users/tobin/documents/visual studio 2015/Projects/RoomChecker/RoomChecker/bin/Debug/RoomChecker.pdb
+c:/users/tobin/documents/visual studio 2015/Projects/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.Auth.dll
+c:/users/tobin/documents/visual studio 2015/Projects/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.dll
+c:/users/tobin/documents/visual studio 2015/Projects/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.pdb
+c:/users/tobin/documents/visual studio 2015/Projects/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.xml
+c:/users/tobin/documents/visual studio 2015/Projects/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.Auth.pdb
+c:/users/tobin/documents/visual studio 2015/Projects/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.Auth.xml
+c:/users/tobin/documents/visual studio 2015/Projects/RoomChecker/RoomChecker/obj/Debug/RoomChecker.csprojResolveAssemblyReference.cache
+c:/users/tobin/documents/visual studio 2015/Projects/RoomChecker/RoomChecker/obj/Debug/RoomChecker.exe
+c:/users/tobin/documents/visual studio 2015/Projects/RoomChecker/RoomChecker/obj/Debug/RoomChecker.pdb
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/obj/Debug/RoomChecker.csprojResolveAssemblyReference.cache
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/obj/Debug/RoomChecker.csproj.RoomChecker.exe.config
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/obj/Debug/RoomChecker.csproj.CoreCompileInputs.cache
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/obj/Debug/RoomChecker.exe
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/obj/Debug/RoomChecker.pdb
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/bin/Debug/RoomChecker.exe.config
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/bin/Debug/RoomChecker.exe
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/bin/Debug/RoomChecker.pdb
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.Auth.dll
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.dll
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.pdb
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.xml
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.Auth.pdb
+/Users/tobin.pomeroy/Downloads/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.Auth.xml
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/obj/Debug/RoomChecker.csprojResolveAssemblyReference.cache
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/obj/Debug/RoomChecker.csproj.RoomChecker.exe.config
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/obj/Debug/RoomChecker.csproj.CoreCompileInputs.cache
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/obj/Debug/RoomChecker.exe
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/obj/Debug/RoomChecker.pdb
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/bin/Debug/RoomChecker.exe.config
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/bin/Debug/RoomChecker.exe
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/bin/Debug/RoomChecker.pdb
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.Auth.dll
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.dll
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.pdb
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.xml
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.Auth.pdb
+/Users/tobin.pomeroy/RoomChecker/RoomChecker/bin/Debug/Microsoft.Exchange.WebServices.Auth.xml
